@@ -13,6 +13,7 @@
     <string name="action_settings">Settings</string>
 
     <!-- Strings related to Label Activity -->
+    <string name="title_activity_login">Login Activity</string>
     <string name="title_activity_contact">Contact Activity</string>
     <string name="title_activity_parametre">Paramètres</string>
     <string name="title_activity_contacts">Contacts</string>
