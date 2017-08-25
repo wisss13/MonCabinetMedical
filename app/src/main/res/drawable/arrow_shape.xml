@@ -1,0 +1,7 @@
+
+<!-- arrow from your PSD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="rectangle" >
+	<solid android:color="@color/dial_icon_1_color" />
+</shape>
+

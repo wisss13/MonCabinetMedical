@@ -1,0 +1,7 @@
+
+<!-- bg_ellipse_copy_1 from your PSD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="oval" >
+	<solid android:color="@color/bg_ellipse_copy_color" />
+</shape>
+

@@ -1,0 +1,8 @@
+
+<!-- mic_icon from your PSD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="rectangle" >
+	<corners android:radius="9dp" />
+	<solid android:color="@color/menu_icon_color" />
+</shape>
+

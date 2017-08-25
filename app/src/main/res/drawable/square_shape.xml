@@ -1,0 +1,8 @@
+
+<!-- square from your PSD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="rectangle" >
+	<corners android:radius="3dp" />
+	<solid android:color="@color/dial_icon_1_color" />
+</shape>
+

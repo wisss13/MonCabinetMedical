@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey">#ddd</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorSecondText">#999</color>
+    <color name="primary_text">#DE000000</color>
+
+    <color name="colorPrimarytext">#212121</color>
+    <color name="colorDivider">#ccc</color>
+
+    <color name="colorFAB">#FF9800</color>
+    <color name="colorFABPressed">#F57C00</color>
+
+    <color name="mdtp_accent_color">#009688</color>
+    <color name="mdtp_accent_color_dark">#00796B</color>
+    <color name="colorContextMenu">#616161</color>
+    <color name="primary_text_default_material_ligh">#deffffff</color>
+    <color name="primary_text_material_ligh">#ffffff</color>
+
+    <!-- Contacts - Contacts colors -->
+
+    <color name="bg_color">#F6F6F6</color>
+    <color name="circle_color">#03E5FF</color>
+    <color name="dial_icon_1_color">#FFFFFF</color>
+    <color name="c_color">#666666</color>
+    <color name="cowardly_lion_1_color">#333333</color>
+    <color name="bg_ellipse_copy_color">#547BCA</color>
+    <color name="blue_bg_color">#0FC6DC</color>
+    <color name="menu_icon_color">#999999</color>
+    <color name="green_arrow_color">#029A26</color>
+    <color name="speed_dial_color">#B0ECF7</color>
+    <color name="yellow_bar_color">#F5FD0B</color>
+    <color name="black_rectangle_color">#000000</color>
+
+</resources>
