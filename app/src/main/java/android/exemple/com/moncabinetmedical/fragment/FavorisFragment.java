@@ -111,8 +111,7 @@ public class FavorisFragment extends ListContactFragment implements RecyclerView
             }
         });
         mRecyclerView.addOnItemTouchListener(new RecyclerViewTouchListener(getActivity(), mRecyclerView, this));
-
-
+        
         /*LinearLayoutManager llm = new LinearLayoutManager(getActivity());
         llm.setOrientation(LinearLayoutManager.VERTICAL);
         llm.setReverseLayout(false);
